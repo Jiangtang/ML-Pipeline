@@ -19,7 +19,7 @@ python pipeline.py
 
 ## Folder 3: The standard scikit-learn pipeline
 
-Extend scikit-learn's two basic classes, (**BaseEstimator**)[https://scikit-learn.org/stable/modules/generated/sklearn.base.BaseEstimator.html] and (**TransformerMix**)[https://scikit-learn.org/stable/modules/generated/sklearn.base.TransformerMixin.html] for customized transformation.
+Extend scikit-learn's two basic classes, [**BaseEstimator**](https://scikit-learn.org/stable/modules/generated/sklearn.base.BaseEstimator.html) and [**TransformerMix**](https://scikit-learn.org/stable/modules/generated/sklearn.base.TransformerMixin.html) for customized transformation.
 
 ```
 python train_pipeline.py  
