@@ -6,20 +6,20 @@ Machine Learning Pipeline: template and examples in Python. Any typical Anaconda
 
 ## folder 1: turn Jupyter notebook to primitive Python code files
 
-"""
-python train.py 
+```
+python train.py   
 python score.py
-"""
+```
 
 ## folder 2: Customized pipeline: put everything in Class
 
-"""
+```
 python pipeline.py 
-"""
+```
 
 ## folder 3: The standard scikit-learn pipeline
 
-"""
-python train_pipeline.py
+```
+python train_pipeline.py  
 python predict.py 
-"""
+```
