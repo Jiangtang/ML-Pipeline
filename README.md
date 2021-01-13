@@ -27,3 +27,5 @@ python predict.py
 ```
 
 ## Reference
+
+Based on [Deployment of Machine Learning Models](https://www.udemy.com/course/deployment-of-machine-learning-models/)
